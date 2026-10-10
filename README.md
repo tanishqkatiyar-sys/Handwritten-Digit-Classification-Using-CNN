@@ -1,5 +1,7 @@
 # MNIST Handwritten Digit Recognition
 
+🚀 **Live Demo:** [Try the Handwritten Digit Recognition App](https://handwritten-digit-classification-using-cnn-andr6kaovchhppxsoxk.streamlit.app/)
+
 ## 📌 Project Overview
 
 This project is a **Handwritten Digit Recognition System** that predicts handwritten digits from 0 to 9 using Machine Learning and Deep Learning models.
@@ -8,9 +10,11 @@ The project uses three different neural network models:
 
 - **Perceptron** – A basic neural network model.
 - **ANN (Artificial Neural Network)** – A fully connected neural network.
-- **CNN (Convolutional Neural Network)** – A deep learning model that is particularly effective for image recognition.
+- **CNN (Convolutional Neural Network)** – A deep learning model particularly effective for image recognition.
 
 A **Streamlit web application** allows users to upload handwritten digit images and compare the predictions made by all three models.
+
+👉 **[Click here to try the live application](https://handwritten-digit-classification-using-cnn-andr6kaovchhppxsoxk.streamlit.app/)**
 
 ## 🎯 Objectives
 
@@ -51,7 +55,7 @@ MNIST-Handwritten-Digit-Recognition/
 
 The project uses the **MNIST dataset**, a widely used dataset for handwritten digit recognition.
 
-- It contains 70,000 grayscale images.
+- Contains 70,000 grayscale images.
 - 60,000 images are used for training.
 - 10,000 images are used for testing.
 - Each image has a size of 28 × 28 pixels.
@@ -83,7 +87,7 @@ A CNN uses convolutional and pooling layers to learn visual features such as edg
 6. Pixel values are normalized.
 7. The processed image is passed to the Perceptron, ANN, and CNN models using their required input formats.
 8. Each model predicts a digit from 0 to 9.
-9. The application displays the predictions so that users can compare the models.
+9. The application displays the predictions so users can compare the models.
 
 ## 🚀 Installation and Setup
 
@@ -94,7 +98,7 @@ git clone https://github.com/tanishqkatiyar-sys/YOUR_REPOSITORY_NAME.git
 cd YOUR_REPOSITORY_NAME
 ```
 
-Replace `YOUR_REPOSITORY_NAME` with the actual repository name.
+Replace `YOUR_REPOSITORY_NAME` with your actual GitHub repository name.
 
 ### Step 2: Create a Virtual Environment (Optional)
 
@@ -171,7 +175,8 @@ For reliable deployment, use package versions compatible with your trained model
 
 **Tanishq Katiyar**
 
-GitHub: [tanishqkatiyar-sys](https://github.com/tanishqkatiyar-sys)
+- **GitHub:** [tanishqkatiyar-sys](https://github.com/tanishqkatiyar-sys)
+- **Live Demo:** [MNIST Handwritten Digit Recognition](https://handwritten-digit-classification-using-cnn-andr6kaovchhppxsoxk.streamlit.app/)
 
 ## 📄 License
 
