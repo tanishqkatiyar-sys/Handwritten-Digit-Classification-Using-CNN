@@ -14,8 +14,6 @@ The project uses three different neural network models:
 
 A **Streamlit web application** allows users to upload handwritten digit images and compare the predictions made by all three models.
 
-👉 **[Click here to try the live application](https://handwritten-digit-classification-using-cnn-andr6kaovchhppxsoxk.streamlit.app/)**
-
 ## 🎯 Objectives
 
 - Recognize handwritten digits from 0 to 9.
@@ -180,4 +178,4 @@ For reliable deployment, use package versions compatible with your trained model
 
 ## 📄 License
 
-This project is intended for educational and learning purposes. Add a license file if you want to specify the terms under which others may use or distribute your code.
+This project is intended for educational and learning purposes.
